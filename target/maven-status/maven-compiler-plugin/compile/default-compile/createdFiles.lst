@@ -1,0 +1,6 @@
+com/alibaba/jvm/sandbox/module/JDBCModule.class
+com/alibaba/jvm/sandbox/module/JDBCModule$1.class
+com/alibaba/jvm/sandbox/module/YamlReader.class
+com/alibaba/jvm/sandbox/module/SqlUtil.class
+com/alibaba/jvm/sandbox/module/RabbitTemplate.class
+META-INF/services/com.alibaba.jvm.sandbox.api.Module

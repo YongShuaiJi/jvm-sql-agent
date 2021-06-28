@@ -1,0 +1,6 @@
+rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    password: xuyu@2020
+    username: jiyongshuai
+    virtual-host: showsql
